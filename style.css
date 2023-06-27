@@ -1,0 +1,23 @@
+.col{
+    height:300px;
+    border-radius:10px;
+}
+.title{
+    margin:20px 0px;
+}
+.name,.email,.phone,.seats,.attend{
+    margin:10px 0px;
+}
+.btn{
+    margin-top:15px;
+}
+.img{
+    height:300px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.container,.frstrow{
+    border:1px solid black;
+    border-radius: 10px;
+}
+
